@@ -1,2 +1,2 @@
-# random-blob-later-to-be-improved-
-it is just a usual blob, nothing to do here
+# p5.play-boilerplate
+Boiler plate for p5.play
